@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartStart", "SmartStart\SmartStart.csproj", "{F548E257-B38E-40E2-A733-76F3DC762FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F548E257-B38E-40E2-A733-76F3DC762FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F548E257-B38E-40E2-A733-76F3DC762FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F548E257-B38E-40E2-A733-76F3DC762FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F548E257-B38E-40E2-A733-76F3DC762FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD00121-C092-4C61-B4D4-6EE8F88F396E}
+	EndGlobalSection
+EndGlobal
